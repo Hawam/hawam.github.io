@@ -2,30 +2,29 @@
   from: Apr 2022
   to: present
   description:  
-    -Created a 3D interactive lab simulation game for schools (Labs for Home) to increase student engagement and learning outcomes.
-    -Automated the game building and deployment process using GitHub Actions, saving time and resources.
-    -Utilized Unity Addressable system to download the game content from the cloud, enhancing the user experience.
+    -Created a 3D interactive lab simulation game for schools (Labs for Home) to increase student engagement and learning outcomes.<br>
+    -Automated the game building and deployment process using GitHub Actions, saving time and resources.<br>
+    -Utilized Unity Addressable system to download the game content from the cloud, enhancing the user experience.<br>
 
 - title: Unity Developer, Orial
   from: Oct 2020
   to: Nov 2021 (1 year 2 months)
   description: 
-    - Worked as Unity developer for Orial .
+    - Worked as Unity developer for Orial .<br>
     - Developed VR Apps used by Bomb disposal brigade in the Egyptian Armed
-      Forces.
+      Forces.<br>
     - Developed Business Simulation Game to educate students in business
-      management.
-    - Developed Educational Game for kids with ASD.
+      management.<br>
+    - Developed Educational Game for kids with ASD.<br>
     - Developed Multiplayer Card Game (Baloot) for mobile platforms with unity ,
-      Playfab & photon for backend infrastructure.
+      Playfab & photon for backend infrastructure.<br>
 
 - title: Unity Developer,Tronix Vision
   from: Aug 2017
-  to: Apr 2018 (9 months)
+  to: Sep 2020 (3 years 2 months)
   location: Cairo Governorate, Egypt
   description:
-    - Specialized in producing 3D interactive industrial projects and simulations, like
-      mechanical machines, engines, plant/petroleum sites.. etc.
+    - Specialized in producing 3D interactive industrial projects and simulations, like mechanical machines, engines, plant/petroleum sites.. etc.
       for Tronix Vision.
 
 - title: Unity Developer
@@ -40,8 +39,7 @@
   to: Jan 2017 (5 months)
   location: Egypt
   description:
-    - Worked For Mobileaders as Unity developer to create desktop Card Game that
-      scans real physical Cards to be used in the Game.
+    - Worked For Mobileaders as Unity developer to create desktop Card Game that scans real physical Cards to be used in the Game.
 
 
 - title: Student, Mansoura University, Egypt
