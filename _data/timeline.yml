@@ -1,17 +1,54 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Unity Developer, Arcon Corporation
+  from: Apr 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:  
+    -Created a 3D interactive lab simulation game for schools (Labs for Home) to increase student engagement and learning outcomes.
+    -Automated the game building and deployment process using GitHub Actions, saving time and resources.
+    -Utilized Unity Addressable system to download the game content from the cloud, enhancing the user experience.
+
+- title: Unity Developer, Orial
+  from: Oct 2020
+  to: Nov 2021 (1 year 2 months)
+  description: 
+    - Worked as Unity developer for Orial .
+    - Developed VR Apps used by Bomb disposal brigade in the Egyptian Armed
+      Forces.
+    - Developed Business Simulation Game to educate students in business
+      management.
+    - Developed Educational Game for kids with ASD.
+    - Developed Multiplayer Card Game (Baloot) for mobile platforms with unity ,
+      Playfab & photon for backend infrastructure.
+
+- title: Unity Developer,Tronix Vision
+  from: Aug 2017
+  to: Apr 2018 (9 months)
+  location: Cairo Governorate, Egypt
+  description:
+    - Specialized in producing 3D interactive industrial projects and simulations, like
+      mechanical machines, engines, plant/petroleum sites.. etc.
+      for Tronix Vision.
+
+- title: Unity Developer
+  from: Jan 2017
+  to: Jul 2017 (7 months)
+  location: Egypt
+  description:
+    - Worked as Unity Developer for Methaaq to make mobile & VR Games
+
+- title: Game Developer
+  from: Sep 2016
+  to: Jan 2017 (5 months)
+  location: Egypt
+  description:
+    - Worked For Mobileaders as Unity developer to create desktop Card Game that
+      scans real physical Cards to be used in the Game.
+
+
+- title: Student, Mansoura University, Egypt
+  from: 2012
+  to: 2017
+  description:
+    - Bachelor's degree, Computer Science
+
+
+      

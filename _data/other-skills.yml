@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Object-Oriented Programming (OOP)
+  percentage: 85
+  color: warning
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: DevOps
+  percentage: 70
+  color: primary
+
+- name: Multiplayer
+  percentage: 65
+  color: secondary
+
+- name: Cloud
+  percentage: 60
+  color: danger
+
+- name: Prompt Engineering & Generative AI
+  percentage: 55
+  color: info
