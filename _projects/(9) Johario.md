@@ -2,7 +2,7 @@
 name: Johario
 tools: [C#, Unity, Game Development, QR Reader]
 image:
-description: 'Johario' my first game as a Unity developer with Mobileaders. It's a fun desktop card game where you can use real cards to play.
+description: Johario my first game as a Unity developer with Mobileaders. It's a fun desktop card game where you can use real cards to play.
 ---
 
 # Johario
