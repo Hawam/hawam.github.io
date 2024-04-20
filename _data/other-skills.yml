@@ -4,11 +4,11 @@
 
 - name: DevOps
   percentage: 70
-  color: primary
+  color: danger
 
 - name: Multiplayer
   percentage: 65
-  color: secondary
+  color: primary
 
 - name: Cloud
   percentage: 60

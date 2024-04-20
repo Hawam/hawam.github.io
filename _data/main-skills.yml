@@ -4,11 +4,11 @@
 
 - name: C#
   percentage: 90
-  color:
+  color: warning
 
 - name: Git
   percentage: 80
-  color: warning
+  color: 
 
 - name: Virtual Reality (VR)
   percentage: 70
@@ -16,4 +16,4 @@
 
 - name: Augmented Reality (AR)
   percentage: 70
-  color: warning
+  color: info
