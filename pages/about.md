@@ -7,10 +7,12 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-As a Unity Developer 🎮, I create immersive and interactive 3D games 🕹️ and simulations for various domains and platforms. I have over 5 years of experience 💼 in developing mobile 📱 and desktop 🖥️ apps using Unity, C#, AR 🕶️, VR 🥽, Playfab, Photon, Git, and GitHub Actions.
+Hi, I am **{{ site.author.name }}**.<br>
+I'm a software engineer with nearly 10 years of C# experience. I started out building 3D simulations, VR/AR training apps and multiplayer games in Unity, and today I build production backend systems and full-stack web and mobile apps.
 
-I have a Bachelor's degree 🎓 in Computer Science from Mansoura University and a certification in Developing Android Apps 📲 from Udacity. I'm passionate ❤️ about learning new technologies 🚀 and applying them to create innovative and impactful solutions. I'm looking for a challenging position where I can leverage my skills and experience to collaborate with a creative and highly motivated team. 👥✨
+At **Botbat** I work on a multi-tenant CPaaS platform that lets businesses talk to their customers on WhatsApp, Instagram, Messenger, Telegram, SMS, email and web chat from one inbox. I work across the stack: event-driven APIs with NestJS, PostgreSQL, Redis and RabbitMQ, email infrastructure on AWS SES, WhatsApp Business Platform integrations, React web apps and a React Native mobile app. I've also done backend work in ASP.NET Core.
+
+I have a Bachelor's degree in Computer Science from Mansoura University and a certification in Developing Android Apps from Udacity. I enjoy owning a feature from the first spec and data model through to deployment and production support.
 
 <div class="row">
 {% include about/skills.html title="Main Skills" source=site.data.main-skills %}

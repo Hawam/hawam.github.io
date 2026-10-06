@@ -1,10 +1,8 @@
 ### Site Settings ###
 title               : Ahmed Hawam
 description         : >-
-                      👨‍👩‍👧‍👦 A family man, always putting the 
-                      safety of those I love 💕 above all else, 
-                      💻 solving problems with code 🔧 to create innovative solutions 💡 
-                      that improve people's lives, and 😊 finding joy in the little things 😊.
+                      Software engineer working in C# / .NET and full-stack TypeScript.
+                      I build backend systems, web and mobile apps, and interactive 3D and VR experiences.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : Hawam/hawam.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

@@ -1,19 +1,23 @@
-- name: Object-Oriented Programming (OOP)
-  percentage: 85
+- name: Message Queues (RabbitMQ, BullMQ, Redis)
+  percentage: 75
+  color: danger
+
+- name: AWS (ECS, SES, S3)
+  percentage: 70
   color: warning
 
-- name: DevOps
-  percentage: 70
-  color: danger
-
-- name: Multiplayer
-  percentage: 65
+- name: DevOps (Docker, GitHub Actions, CI/CD)
+  percentage: 75
   color: primary
 
-- name: Cloud
-  percentage: 60
-  color: danger
+- name: Auth (Keycloak, OAuth 2.0 / OIDC)
+  percentage: 70
+  color: success
 
-- name: Prompt Engineering & Generative AI
-  percentage: 55
+- name: Virtual & Augmented Reality
+  percentage: 70
   color: info
+
+- name: Multiplayer (Photon, PlayFab)
+  percentage: 65
+  color: warning

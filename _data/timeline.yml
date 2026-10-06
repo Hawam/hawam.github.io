@@ -1,10 +1,33 @@
-- title: Unity Developer, Arcon Corporation
-  from: Apr 2022
+- title: Full-Stack Developer, Botbat
+  from: Nov 2025
   to: present
-  description:  
-    -Created a 3D interactive lab simulation game for schools (Labs for Home) to increase student engagement and learning outcomes.<br>
-    -Automated the game building and deployment process using GitHub Actions, saving time and resources.<br>
-    -Utilized Unity Addressable system to download the game content from the cloud, enhancing the user experience.<br>
+  location: UAE (Remote)
+  description:
+    - Building a multi-tenant CPaaS platform where businesses run WhatsApp, Instagram, Messenger, Telegram, SMS, email and web chat from one inbox.<br>
+    - Contributed to the campaign engine - timezone-aware scheduling on BullMQ, execution over RabbitMQ, rate limiting, delivery tracking and conversion attribution.<br>
+    - Built the email platform on AWS SES - multi-tenant sending, domain and sender verification, inbound email, one-click unsubscribe and AI-assisted email generation.<br>
+    - Integrated the Meta WhatsApp Business Platform - Embedded Signup, template approval, interactive and rich messages.<br>
+    - Built the React Native (Expo) mobile app from scratch - Keycloak sign-in, live inbox over SSE, push notifications and Arabic RTL.<br>
+    - Delivered backend tasks in ASP.NET Core (C#) alongside the main TypeScript stack.<br>
+    - Secondary product manager - feature specs, sprint planning and technical audits.<br>
+
+- title: Unity Developer, Cyberx World
+  from: Sep 2024
+  to: Nov 2025
+  location: Egypt
+  description:
+    - Developed interactive cybersecurity-awareness games that teach users how cyber attacks work and how to protect themselves.<br>
+    - Worked with security experts to turn complex threat scenarios into engaging, accessible game mechanics.<br>
+    - Delivered backend tasks in ASP.NET Core (C#) to support the game products.<br>
+
+- title: Senior Unity Developer, Arcon Corporation
+  from: Apr 2022
+  to: Aug 2024
+  location: Cairo, Egypt
+  description:
+    - Developed Labs for Home, a 3D interactive lab simulation deployed to schools nationwide, and built its VR edition for Meta Quest 2.<br>
+    - Automated game builds and cloud deployments with a GitHub Actions CI/CD pipeline.<br>
+    - Used Unity Addressables to stream game content from the cloud, reducing the initial download size.<br>
 
 - title: Unity Developer, Orial
   from: Oct 2020
@@ -47,6 +70,3 @@
   to: 2017
   description:
     - Bachelor's degree, Computer Science
-
-
-      
